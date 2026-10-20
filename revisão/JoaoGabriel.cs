@@ -1,6 +1,6 @@
-﻿using System;
+﻿
 
-namespace JoaoGabriel
+namespace Entidades
 
 {
     public class JoaoGabriel
