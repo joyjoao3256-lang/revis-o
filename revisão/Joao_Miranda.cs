@@ -13,7 +13,7 @@ namespace revisão
 
         public void ExibirDados()
         {
-            Console.WriteLine($"Meu nome é {Nome}, tenho {Idade}, Minhas Habilidades São {Habilidades}");
+            Console.WriteLine($"Meu nome é {Nome}, tenho {Idade} anos, Minhas Habilidades São {Habilidades}");
             foreach (string Habilidade2 in Habilidades)
             {
                 Console.WriteLine($"- {Habilidades}");
