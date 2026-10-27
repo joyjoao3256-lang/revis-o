@@ -2,7 +2,7 @@
 
 namespace revisão
 {
-    internal class Joao_Miranda
+    public class Joao_Miranda
     {
         public string Nome { get; set; }
 
